@@ -1,0 +1,4 @@
+sys-auth/pambase consolekit
+x11-base/xorg-server -minimal udev
+app-editors/vim -gpm
+x11-misc/obconf lxde
